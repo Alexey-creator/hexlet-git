@@ -1,1 +1,0 @@
-Hello, Hexlet! Haskell Curry
